@@ -1,9 +1,11 @@
 # Basic
-title: Bocchi
+title: Lexicon
 subtitle: Blog
-description: Welcom to my Blog~
+description: 
+# Welcom to my Blog~
+
 # 头像里面的标题
-avatarTitle: Bocchi
+avatarTitle: Lexicon
 # 头像里面的描述
 avatarDesc: Finance / Statistics
 url: "http://docgrhk.github.io"
